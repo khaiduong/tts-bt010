@@ -1,0 +1,1 @@
+Hello. Welcome to this audio demo using raspberry pi. This is a project using raspberry pi in realtime. This project is belong to Khai - BT101, and raspberry pi is receiving and converting it to speech.Thanks for paying attention. Goodbye and have a good day
